@@ -62,10 +62,3 @@ A personalized cross-platform workout tracking application built with **.NET MAU
 
 ---
 
-## 🧑‍💻 Author
-
-**Bashi** — Developer & Fitness Enthusiast  
-App crafted for personal wellness tracking across mobile and desktop environments.
-
----
-
